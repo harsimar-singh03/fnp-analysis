@@ -20,8 +20,8 @@ Average Order–Delivery Time: 5.53 days
 Average Customer Spend: ₹3,520.98
 
 📈 Dashboard Insights
-🎉 Revenue by Occasion
 
+🎉 Revenue by Occasion
 Analyze sales performance across major occasions:
 Anniversary
 Birthday
